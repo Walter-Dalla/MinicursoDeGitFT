@@ -8,6 +8,12 @@ git commit -am -> faz um novo bloco de funcionalidade;
 
 git push -> envia o commit para a nuvem;
 
+git fetch -p ->
+
+git pull -> 
+
+git merge "nome da branch" -> Merge as duas branch na master 
+
 
 Tipos de arquivo:
 "untracked" o arquivo nao esta no commit ainda;
