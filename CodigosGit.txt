@@ -11,6 +11,7 @@ git push -> envia o commit para a nuvem;
 git checkout -b "Suzy" -> Cria uma nova brench com o nome Suzy "";
 
 
+
 Tipos de arquivo:
 "untracked" o arquivo nao esta no commit ainda;
 "tracked" o arquivo esta no commit;
