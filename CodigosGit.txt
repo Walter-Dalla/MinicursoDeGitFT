@@ -1,0 +1,15 @@
+git clone -> traz o repositorio da nuvem para o diretorio local
+
+commit -> pacote novo de funcionalidade
+
+status -> ciclo de estado dos meus arquivos;
+
+git add -> adiciona um arquivo pro commit;
+
+
+
+Tipos de arquivo:
+"untracked" o arquivo nao esta no commit ainda;
+"tracked" o arquivo esta no commit;
+"modify" o arquivo foi modificado;
+"unmodify" o arquivo nao foi modificado.
