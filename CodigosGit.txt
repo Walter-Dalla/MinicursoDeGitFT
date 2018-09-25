@@ -1,11 +1,12 @@
-git clone -> traz o repositorio da nuvem para o diretorio local
-
-commit -> pacote novo de funcionalidade
+git clone -> traz o repositorio da nuvem para o diretorio local;
 
 status -> ciclo de estado dos meus arquivos;
 
 git add -> adiciona um arquivo pro commit;
 
+git commit -am -> faz um novo bloco de funcionalidade;
+
+git push -> envia o commit para a nuvem;
 
 
 Tipos de arquivo:
